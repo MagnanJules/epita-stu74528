@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "epita-web-api-demo-1", "epita-web-api-demo-1\epita-web-api-demo-1.csproj", "{135AAD90-A094-4B70-81C1-727313078A77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.Domain", "WebApp.Domain\WebApp.Domain.csproj", "{7BA5A612-487B-48B8-A35E-D9C5A5F9E629}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.Services", "WebApp.Services\WebApp.Services.csproj", "{85C5A341-FBB8-42FB-BE44-1D3C31468E6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp.Auth", "WebApp.Auth\WebApp.Auth.csproj", "{EF21C395-B9C1-45EF-B1A0-174FD345E62E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC5BBDAA-2639-49F8-B3AA-3DEAAF346B28}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp.MVC", "WebApp.MVC\WebApp.MVC.csproj", "{C77B774C-7935-4E2D-89B0-5C3B0BA6AF5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135AAD90-A094-4B70-81C1-727313078A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135AAD90-A094-4B70-81C1-727313078A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135AAD90-A094-4B70-81C1-727313078A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135AAD90-A094-4B70-81C1-727313078A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA5A612-487B-48B8-A35E-D9C5A5F9E629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA5A612-487B-48B8-A35E-D9C5A5F9E629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA5A612-487B-48B8-A35E-D9C5A5F9E629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA5A612-487B-48B8-A35E-D9C5A5F9E629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85C5A341-FBB8-42FB-BE44-1D3C31468E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85C5A341-FBB8-42FB-BE44-1D3C31468E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85C5A341-FBB8-42FB-BE44-1D3C31468E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85C5A341-FBB8-42FB-BE44-1D3C31468E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF21C395-B9C1-45EF-B1A0-174FD345E62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF21C395-B9C1-45EF-B1A0-174FD345E62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF21C395-B9C1-45EF-B1A0-174FD345E62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF21C395-B9C1-45EF-B1A0-174FD345E62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C77B774C-7935-4E2D-89B0-5C3B0BA6AF5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77B774C-7935-4E2D-89B0-5C3B0BA6AF5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77B774C-7935-4E2D-89B0-5C3B0BA6AF5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77B774C-7935-4E2D-89B0-5C3B0BA6AF5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59CF2F3-037C-4350-AD0C-98A123369A38}
+	EndGlobalSection
+EndGlobal

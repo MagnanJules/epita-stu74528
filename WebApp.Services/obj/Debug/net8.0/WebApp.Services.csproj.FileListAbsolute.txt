@@ -1,0 +1,15 @@
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\bin\Debug\net8.0\WebApp.Services.deps.json
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\bin\Debug\net8.0\WebApp.Services.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\bin\Debug\net8.0\WebApp.Services.pdb
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\bin\Debug\net8.0\WebApp.Domain.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\bin\Debug\net8.0\WebApp.Domain.pdb
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\WebApp.Services.csproj.AssemblyReference.cache
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\WebApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\WebApp.Services.AssemblyInfoInputs.cache
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\WebApp.Services.AssemblyInfo.cs
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\WebApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\WebApp.Services.csproj.CopyComplete
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\WebApp.Services.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\refint\WebApp.Services.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\WebApp.Services.pdb
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Services\obj\Debug\net8.0\ref\WebApp.Services.dll
