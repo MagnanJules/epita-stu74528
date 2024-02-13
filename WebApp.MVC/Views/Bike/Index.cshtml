@@ -1,0 +1,95 @@
+﻿@model IEnumerable<WebApp.Domain.Models.BikeStation>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.number)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.contract_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.banking)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.bonus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.bike_stands)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.available_bike_stands)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.available_bikes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.last_update)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.contract_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.banking)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.bonus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.bike_stands)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.available_bike_stands)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.available_bikes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.last_update)
+            </td>
+            <td>
+                    <!--   @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) | -->
+                @Html.ActionLink("Details", "Details", new { id=item.number  }) 
+              <!--   @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ }) -->
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

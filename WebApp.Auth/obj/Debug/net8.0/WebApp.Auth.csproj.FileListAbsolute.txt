@@ -1,0 +1,12 @@
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\bin\Debug\net8.0\WebApp.Auth.deps.json
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\bin\Debug\net8.0\WebApp.Auth.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\bin\Debug\net8.0\WebApp.Auth.pdb
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\obj\Debug\net8.0\WebApp.Auth.csproj.AssemblyReference.cache
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\obj\Debug\net8.0\WebApp.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\obj\Debug\net8.0\WebApp.Auth.AssemblyInfoInputs.cache
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\obj\Debug\net8.0\WebApp.Auth.AssemblyInfo.cs
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\obj\Debug\net8.0\WebApp.Auth.csproj.CoreCompileInputs.cache
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\obj\Debug\net8.0\WebApp.Auth.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\obj\Debug\net8.0\refint\WebApp.Auth.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\obj\Debug\net8.0\WebApp.Auth.pdb
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Auth\obj\Debug\net8.0\ref\WebApp.Auth.dll

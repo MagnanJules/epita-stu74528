@@ -1,0 +1,11 @@
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\bin\Debug\net8.0\WebApp.Domain.deps.json
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\bin\Debug\net8.0\WebApp.Domain.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\bin\Debug\net8.0\WebApp.Domain.pdb
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\obj\Debug\net8.0\WebApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\obj\Debug\net8.0\WebApp.Domain.AssemblyInfoInputs.cache
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\obj\Debug\net8.0\WebApp.Domain.AssemblyInfo.cs
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\obj\Debug\net8.0\WebApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\obj\Debug\net8.0\WebApp.Domain.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\obj\Debug\net8.0\refint\WebApp.Domain.dll
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\obj\Debug\net8.0\WebApp.Domain.pdb
+C:\Users\jules\Documents\POO dorset\epita-stu74528\epita-web-api-demo-1-master\epita-web-api-demo-1-master\WebApp.Domain\obj\Debug\net8.0\ref\WebApp.Domain.dll
