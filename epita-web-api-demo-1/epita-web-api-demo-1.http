@@ -1,0 +1,6 @@
+@epita_web_api_demo_1_HostAddress = http://localhost:5135
+
+GET {{epita_web_api_demo_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

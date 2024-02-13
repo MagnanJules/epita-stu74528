@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\epita-web-api-demo-1.props" />
+</Project>
